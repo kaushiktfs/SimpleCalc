@@ -1,0 +1,8 @@
+C:\Users\Fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\bin\Release\CalculatorProject.exe.config
+C:\Users\Fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\bin\Release\CalculatorProject.exe
+C:\Users\Fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\bin\Release\CalculatorProject.pdb
+C:\Users\Fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.Form1.resources
+C:\Users\Fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.Properties.Resources.resources
+C:\Users\Fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.csproj.GenerateResource.Cache
+C:\Users\Fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.exe
+C:\Users\Fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.pdb

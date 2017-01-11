@@ -1,0 +1,9 @@
+c:\users\fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+c:\users\fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+c:\users\fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+c:\users\fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csprojResolveAssemblyReference.cache
+c:\users\fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Form1.resources
+c:\users\fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+c:\users\fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.Cache
+c:\users\fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+c:\users\fiest\documents\visual studio 2013\Projects\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
