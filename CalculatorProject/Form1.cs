@@ -8,13 +8,15 @@ namespace CalculatorProject
        
         public Form1()
         {
+            
             Total1 = 0.0;
             Total2 = 0.0;
             InitializeComponent();
         }
 
         private void btnOne_Click(object sender, EventArgs e)
-        {
+        {   float Totalx;
+        jhg
             txtDisplay.Text = txtDisplay.Text + btnOne.Text;
 
         }
