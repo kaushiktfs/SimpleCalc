@@ -16,7 +16,6 @@ namespace CalculatorProject
 
         private void btnOne_Click(object sender, EventArgs e)
         {   float Totalx;
-        jhg
             txtDisplay.Text = txtDisplay.Text + btnOne.Text;
 
         }
