@@ -1,1 +1,1 @@
-echo "%ErrorLevel% is the exit code"
+echo "$ErrorLevel is the exit code"
