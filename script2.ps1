@@ -1,5 +1,5 @@
 param(
-[int32]$a
+[string]$a
 )
 
 Write-Host $a
