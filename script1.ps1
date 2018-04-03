@@ -1,3 +1,3 @@
-$process = Start-Process msbuild -WindowStype Hidden -PassThru
+$process = Start-Process msbuild -WindowStyle Hidden -PassThru
 
 
