@@ -1,4 +1,4 @@
-$Number = -1
+$Number = "%ErrorLevel%"
 $Success = "D:\a\1\s\success.json"
 $Failure = "D:\a\1\s\failure.json"
 $Destination = "D:\a\1\s\application.json"
@@ -8,3 +8,4 @@ Copy-Item $Success -Destination $Destination
 Copy-Item $Failure -Destination $Destination
 }
 echo "$Number is cool"
+
