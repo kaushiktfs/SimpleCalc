@@ -1,0 +1,19 @@
+{
+    "fields":
+    {
+        "project":
+        {
+            "key": "JRA"
+        },
+        "parent":
+        {
+            "key": "JRA-1"
+        },
+        "summary": "Sub-task of JRA-1",
+        "description": "Build Failure",
+        "issuetype":
+        {
+            "name": "Sub-task"
+        }
+    }
+};
