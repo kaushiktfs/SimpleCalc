@@ -1,1 +1,3 @@
-echo %ErrorLevel% "is the exit code"
+$process = Start-Process msbuild -WindowStype Hidden -PassThru
+
+
