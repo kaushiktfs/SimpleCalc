@@ -1,0 +1,9 @@
+$Number = 1
+$Success = $(Build.SourcesDirectory\success.json)
+$Failure = $(Build.SourcesDirectory\failure.json)
+$Destination = $(Build.SourcesDirectory\Destination.json)
+if($Number -gt 0){
+Copy-Item $Success -Destination $Destination
+}else{
+Copy-Item $Failure -Destination $Destination
+}
