@@ -1,16 +1,3 @@
 {
-    "fields":
-    {
-        "project":
-        {
-            "key": "JRA"
-        },
-        "parent":
-        {
-            "key": "JRA-1"
-        },
-        "body": "This is a comment regarding the quality of the response.",
-        "assignee":{"name":"kaushik"}
-        
+    "body": "This is a comment regarding the quality of the response."
 }
-};
