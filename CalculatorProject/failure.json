@@ -14,7 +14,7 @@
         "issuetype":
         {
             "name": "Sub-task"
-        }
+        },
         "fields": {
             "assignee":{"name":"charlie"}
         }
