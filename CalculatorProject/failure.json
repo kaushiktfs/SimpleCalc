@@ -15,8 +15,6 @@
         {
             "name": "Sub-task"
         },
-        "fields": {
-            "assignee":{"name":"charlie"}
-        }
+        "assignee":{"name":"charlie"}
     }
 };
